@@ -1,14 +1,13 @@
-## Hi there 👋
+ ### 👋 About Me:
 
- 
 * 💻 Hi, I'm Sanya Chauhan
 * 🎓 Computer Science Student at SOA University
-* 🚀 Passionate about Web Development, AI, and Open Source, GenAI
+* 🚀 Passionate about Web Development, AI, and Open Source.
 
 ### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanya-chauhan-034899275)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyachauhan453@gmail.com)
 
 ### 💻 Tech Stack:
 
@@ -21,6 +20,4 @@
 
 ### 📊 GitHub Stats:
 
-![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanya-044&show_icons=true&theme=radical) get you started:
-
- 
+![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanya-044&show_icons=true&theme=radical)
